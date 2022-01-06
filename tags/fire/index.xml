@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OI 的FIRE練習曲</title>
-    <link>https://todomato.github.io/</link>
-    <description>Recent content on OI 的FIRE練習曲</description>
+    <title>FIRE on OI 的FIRE練習曲</title>
+    <link>https://todomato.github.io/tags/fire/</link>
+    <description>Recent content in FIRE on OI 的FIRE練習曲</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 16:00:00 +0800</lastBuildDate><atom:link href="https://todomato.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 16:00:00 +0800</lastBuildDate><atom:link href="https://todomato.github.io/tags/fire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一起加入FIRE理財族吧</title>
       <link>https://todomato.github.io/post/join-fire-family/</link>
@@ -16,15 +16,6 @@
       <description>&lt;p&gt;今年，我成為FIRE(Financial Independence, Retire Early)的一員囉!!&lt;/p&gt;
 &lt;p&gt;其實早在十年前，我就已經下定決心要在40歲前邁向財務自由，&lt;/p&gt;
 &lt;p&gt;並在工作的旅程中，持續地累積儲蓄與投資的經驗，慢慢朝這方向前進&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>關於我</title>
-      <link>https://todomato.github.io/about/</link>
-      <pubDate>Tue, 04 Jan 2022 15:33:33 +0800</pubDate>
-      
-      <guid>https://todomato.github.io/about/</guid>
-      <description>2022年 我選擇放一個假期 我是Oi， 2022年 我選擇放一個假期，放慢工作腳步， 體驗一下自在的生活，並分享與紀錄自己對FIRE的想法。</description>
     </item>
     
   </channel>
