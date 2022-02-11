@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://todomato.github.io/post/how-will-you-mesuare-ur-life/</loc>
-    <lastmod>2022-01-27T12:00:00+08:00</lastmod>
+    <loc>https://todomato.github.io/tags/investing/</loc>
+    <lastmod>2022-02-11T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://todomato.github.io/</loc>
-    <lastmod>2022-01-27T12:00:00+08:00</lastmod>
+    <lastmod>2022-02-11T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://todomato.github.io/post/</loc>
+    <lastmod>2022-02-11T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://todomato.github.io/post/my-experience/</loc>
+    <lastmod>2022-02-11T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://todomato.github.io/post/how-will-you-mesuare-ur-life/</loc>
     <lastmod>2022-01-27T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://todomato.github.io/tags/reading/</loc>
@@ -18,12 +24,6 @@
     <lastmod>2022-01-21T14:00:00+08:00</lastmod>
   </url><url>
     <loc>https://todomato.github.io/tags/daily/</loc>
-    <lastmod>2022-01-21T14:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://todomato.github.io/tags/investing/</loc>
-    <lastmod>2022-01-21T14:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://todomato.github.io/post/my-experience/</loc>
     <lastmod>2022-01-21T14:00:00+08:00</lastmod>
   </url><url>
     <loc>https://todomato.github.io/tags/fire/</loc>
